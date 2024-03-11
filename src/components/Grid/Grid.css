@@ -1,0 +1,15 @@
+.grid-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px black solid;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.grid-cell {
+  width: 0.5vw;
+  height: 0.5vw;
+  background-color: white;
+}
